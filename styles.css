@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: white;
+  background-image: url(https://images.unsplash.com/photo-1614851099511-773084f6911d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFkZWQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+  background-size: 100%;
+}
+h1{
+  color:red;
+}
+h3{
+  color:#F5C7A9;
+}
+p,table,ol,ul,form{
+  color:#E6B325;
+}
+hr {
+  border:none;
+  border-top: 20px ridge red;
+}
+.nor{
+  background-color:black;
+  height:200px;
+  width:200px;
+}
+.ext:hover{
+  height:500px;
+  width:2000px;
+}
+.ext{
+  height:200px;
+  width:200px;
+}
