@@ -2,7 +2,7 @@ body {
   background-color: black;
   color: white;
   background-image: url(https://images.unsplash.com/photo-1614851099511-773084f6911d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFkZWQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
-    background-size: 100%;
+    background-size: cover;
   background-repeat: no-repeat;
 }
 h1{
